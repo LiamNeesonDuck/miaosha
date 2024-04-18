@@ -98,11 +98,11 @@
 		<dependency>
 			<groupId>org.hibernate</groupId>
 			<artifactId>hibernate-validator</artifactId>
-			<version>5.2.4.Final</version>
-		</dependency>
-		<dependency>
+			<version>5.3.4.Final</version>
+		</dependency>		<dependency>
 			<groupId>org.projectlombok</groupId>
 			<artifactId>lombok</artifactId>
+			<version>1.18.30</version>
 		</dependency>
 
 		<dependency>
